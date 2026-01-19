@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋 I'm Abhay
 
-<!--
-**abhayd-8/abhayd-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 **Interests**  
+I'm passionate about **web development**, **technology**, and **software engineering**. I enjoy building user-focused web applications and continuously learning new tools and frameworks in the web ecosystem.
 
-Here are some ideas to get you started:
+💻 **What I'm working on**  
+- Frontend-focused web projects  
+- Improving my skills in modern JavaScript frameworks and UI development  
+- Writing clean, maintainable, and scalable code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ **Collaboration**  
+I'm open to collaborating on:
+- Web development projects (especially frontend-heavy ones)
+- Open-source contributions
+- Projects where I can learn, contribute, and grow alongside other developers
+
+🛠 **Tech Interests**  
+- HTML, CSS, JavaScript  
+- Frontend frameworks & libraries  
+- Responsive design & performance optimization  
+- Software engineering best practices
+
+🔁 **Previous GitHub profile**  
+Some of my earlier projects were developed under a previous GitHub account:  
+👉 https://github.com/abhayd08
+
+📫 **Get in touch**  
+- Email: **abhaydt.08@gmail.com**  
+- LinkedIn: [linkedin.com/in/abhayd08](https://linkedin.com/in/abhayd08)
+
+---
+
+⭐ Feel free to check out my repositories and connect if you'd like to collaborate or discuss ideas!
